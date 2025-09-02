@@ -1,0 +1,49 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+eggs/
+*.egg-info/
+.installed.cfg
+MANIFEST
+sdist/
+wheelhouse/
+*.whl
+
+# Virtual environment
+.venv/
+venv/
+env/
+/venv
+/env
+
+# IDE and Editor-specific files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# MyPy
+.mypy_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Database files
+*.sqlite3
+
+# Log and data files
+*.log
+*.csv
+*.data
+
+# Test files
+.pytest_cache/
