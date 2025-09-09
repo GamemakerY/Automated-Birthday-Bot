@@ -2,6 +2,8 @@
 
 Utilize the power of AI to craft the perfect birthday message for you family, friends or anyone you know!
 
+![Screenshot 2025-09-09 191636](https://github.com/user-attachments/assets/1033f5d4-3fa9-44c9-abd1-006a409d2d97)
+
 ---
 
 ## 🚀 Getting Started
